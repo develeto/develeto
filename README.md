@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=%40develeto&fontSize=65&fontColor=00ff88&fontAlignY=42&desc=Senior%20Software%20Developer%20%26%20Systems%20Architect%20%7C%20Malambo%2C%20Colombia&descAlignY=60&descColor=ffffff&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,40:052e16,75:065f46,100:00ff88&text=Jesus%20Manuel%20Varela&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Senior%20Software%20Developer%20%26%20Tech%20Lead%20%7C%20AWS%20%C2%B7%20Serverless%20%C2%B7%20SaaS%20%7C%20Malambo%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=62&descColor=d1fae5&descSize=15)
 
 </div>
 
