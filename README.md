@@ -60,6 +60,13 @@ Construyendo **KOMA** — plataforma gastronómica hiperlocal para municipios pe
 ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-00ff88?style=flat-square&logoColor=white)
 ![Team Leadership](https://img.shields.io/badge/Team_Leadership-00ff88?style=flat-square&logoColor=white)
 
+**IA & Agentes**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00ff88?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Creator-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
 ---
 
 ## Proyectos activos
