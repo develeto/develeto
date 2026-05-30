@@ -56,6 +56,23 @@ Domain-Driven Design · Microservices · REST · tRPC · WebSockets
 
 ---
 
+## Métricas
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develeto&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=21262d&hide_border=false&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=develeto&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681&border=21262d" />
+
+</div>
+
+---
+
 ## Encuéntrame
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hawkinsdev-portfolio.vercel.app)
