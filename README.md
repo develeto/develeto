@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=280&color=0:0d1117,40:052e16,75:065f46,100:00ff88&text=Jesus%20Manuel%20Varela&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Senior%20Software%20Developer%20%26%20Tech%20Lead%20%7C%20AWS%20%C2%B7%20Serverless%20%C2%B7%20SaaS%20%7C%20Malambo%2C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=62&descColor=d1fae5&descSize=15" width="100%" />
-
-</div>
-
-<div align="center">
-
 ![Visitors](https://komarev.com/ghpvc/?username=develeto&color=00ff88&style=flat-square&label=Visitas+al+perfil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-develeto.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=0d1117)](https://develeto.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus%20Manuel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusmanuelvarelamiranda/)
@@ -111,8 +105,8 @@ TDD · Clean Architecture · CI/CD · Infrastructure as Code
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=21262d&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develeto&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=21262d&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=21262d&count_private=true&include_all_commits=true&show=prs_merged,reviews" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develeto&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=21262d&langs_count=8" />
 
 </div>
 
@@ -125,12 +119,6 @@ TDD · Clean Architecture · CI/CD · Infrastructure as Code
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=develeto&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/develeto)
-
-</div>
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=develeto&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/develeto)
 
 </div>
 
@@ -148,8 +136,6 @@ TDD · Clean Architecture · CI/CD · Infrastructure as Code
 📩 **jesusvarelamiranda@gmail.com**
 
 </div>
-
----
 
 ---
 
