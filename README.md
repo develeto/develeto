@@ -67,7 +67,7 @@ Domain-Driven Design · Microservices · REST · tRPC · WebSockets
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=develeto&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681&border=21262d" />
+<img src="https://streak-stats.demolab.com?user=develeto&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681&border=21262d" />
 
 </div>
 
@@ -75,8 +75,8 @@ Domain-Driven Design · Microservices · REST · tRPC · WebSockets
 
 ## Encuéntrame
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://hawkinsdev-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmdevelope/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://develeto.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusmanuelvarelamiranda/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@develeto)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@develeto)
 
