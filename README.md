@@ -1,13 +1,3 @@
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=develeto&color=00ff88&style=flat-square&label=Visitas+al+perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-develeto.vercel.app-00ff88?style=flat-square&logo=vercel&logoColor=0d1117)](https://develeto.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus%20Manuel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusmanuelvarelamiranda/)
-
-</div>
-
----
-
 ## Hey, soy Jesus Manuel — @develeto 👋
 
 **Senior Software Developer & Tech Lead** · Malambo, Colombia 🇨🇴
@@ -105,20 +95,8 @@ TDD · Clean Architecture · CI/CD · Infrastructure as Code
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=21262d&count_private=true&include_all_commits=true&show=prs_merged,reviews" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=21262d&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develeto&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=21262d&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=develeto&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=6e7681&border=21262d" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=develeto&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/develeto)
 
 </div>
 
@@ -156,7 +134,5 @@ Sin estereotipos. Con criterio técnico real. Desde Malambo para el mundo.
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,60:065f46,100:0d1117&height=120&section=footer" width="100%" />
-
 </div>
