@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=develeto&fontSize=60&fontColor=0d1117&fontAlignY=38&desc=Senior%20Software%20Developer%20%26%20Systems%20Architect&descAlignY=58&descColor=0d1117&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,30,00ff88&height=220&section=header&text=@develeto&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=Senior%20Software%20Developer%20%26%20Systems%20Architect%20%7C%20Malambo%2C%20Colombia&descAlignY=60&descColor=00ff88&descSize=16&animation=twinkling)
 
 </div>
 
@@ -151,12 +151,26 @@ TDD · Clean Architecture · CI/CD · Infrastructure as Code
 
 ---
 
+---
+
+## Develeto — Código, verbena y vacile 🎵
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer&fontColor=0d1117)
+<img src="./develeto-logo.png" width="200" alt="Develeto" />
+
+**Dev + Coleto.** Enseño programación desde la autenticidad costeña.  
+Sin estereotipos. Con criterio técnico real. Desde Malambo para el mundo.
+
+[![YouTube](https://img.shields.io/badge/Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@develeto)
+[![TikTok](https://img.shields.io/badge/Sígueme-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@develeto)
 
 </div>
 
+---
+
 <div align="center">
-<sub>Código, verbena y vacile · Malambo, Atlántico 🎵</sub>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,00ff88,100,0d1117&height=120&section=footer&reversal=true)
+
 </div>
