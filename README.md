@@ -95,9 +95,9 @@ TDD · Clean Architecture · CI/CD · Infrastructure as Code
 
 <div align="center">
 
-![Develeto GitHub stats](https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=transparent)
+![Develeto GitHub stats](https://github-readme-stats.vercel.app/api?username=develeto&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develeto)](https://github.com/develeto)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develeto&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
