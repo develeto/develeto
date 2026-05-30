@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,30,00ff88&height=220&section=header&text=@develeto&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=Senior%20Software%20Developer%20%26%20Systems%20Architect%20%7C%20Malambo%2C%20Colombia&descAlignY=60&descColor=00ff88&descSize=16&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=%40develeto&fontSize=65&fontColor=00ff88&fontAlignY=42&desc=Senior%20Software%20Developer%20%26%20Systems%20Architect%20%7C%20Malambo%2C%20Colombia&descAlignY=60&descColor=ffffff&descSize=16&animation=fadeIn)
 
 </div>
 
@@ -171,6 +171,6 @@ Sin estereotipos. Con criterio técnico real. Desde Malambo para el mundo.
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0,00ff88,100,0d1117&height=120&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
 
 </div>
